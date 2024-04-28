@@ -3,7 +3,8 @@ Projeto EBOOK Gerado por ferramentas de I.A
 
 Projeto com o objetivo de criar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts estão listados abaixo.
 
-📕 Clique aqui para ler https://github.com/adja-18/prompts-recipe-to-create-a-ebook/blob/main/meu_ebook.pdf
+📕 [Clique aqui para ler](https://github.com/adja-18/prompts-recipe-to-create-a-ebook/blob/main/meu_ebook.pdf)
+
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT

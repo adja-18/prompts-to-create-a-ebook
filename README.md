@@ -48,3 +48,7 @@ Este eBook explora brevemente os principais conceitos e áreas da inteligência 
 
 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Canva, para diagramação.
+____________________________________________________________________________________________________________________
+
+Adja Melo
+LinkedIn: [Adja Melo](https://www.linkedin.com/in/adja-melo-717b0b1a0/?originalSubdomain=br)

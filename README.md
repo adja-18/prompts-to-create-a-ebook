@@ -3,7 +3,7 @@ Projeto EBOOK Gerado por ferramentas de I.A
 
 Projeto com o objetivo de criar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts estão listados abaixo.
 
-📕 Clique aqui para ler meu_ebook.pdf
+📕 Clique aqui para ler 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
 Copilot
